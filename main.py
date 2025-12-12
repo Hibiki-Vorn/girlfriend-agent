@@ -14,4 +14,4 @@ while True:
     chat_history.append(HumanMessage(content=user_input))
     chat_history = chat_history[-chat_history_length:]
     response = ollama_llm.invoke(chat_history)
-    print(girlfriend_name,":",response.content)
+    print(girlfriend_name+":",response.content)
