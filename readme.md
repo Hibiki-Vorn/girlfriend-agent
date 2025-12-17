@@ -1,4 +1,4 @@
-# Girlfriend-agent
+# openGirlfriend
 
 This is my girlfriend. Her name is the nickname of my best friend of signal account.
 
