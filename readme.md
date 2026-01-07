@@ -18,4 +18,4 @@ Run following commands to start this program.
 
 `pip install -r requirements.txt`
 
-`python agent.py`
+`python main.py`
