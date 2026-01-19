@@ -1,5 +1,7 @@
 # openGirlfriend
 
+>**⚠️ This repository has archived. Please enter [openGirlfriend_mcp](https://github.com/Hibiki-Vorn/openGirlfriend_mcp).**
+
 This is my girlfriend. Her name is the nickname of my best friend of signal account.
 
 This is my first artwork about AI which is depended on ollama and langchain.
